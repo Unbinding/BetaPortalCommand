@@ -1,0 +1,9 @@
+name: BetaPortalCommand
+version: 1.0
+
+author: Submitted
+main: com.unbinding.portalcommand.PortalCommand
+
+commands:
+  server:
+    description:

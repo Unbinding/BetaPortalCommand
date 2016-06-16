@@ -1,0 +1,13 @@
+quick-commands: true
+allowed-servers:
+- Creative
+- Factions
+- Lobby
+- PvP
+- Skyblock
+- Survival
+- Event
+messages:
+  servers-header: '&8&m--------&r &3&lBeta Network &8&m--------&r'
+  server-format: '&b{server} &7(/server &b{server})'
+  server-offline: '&cThat server is offline!'
